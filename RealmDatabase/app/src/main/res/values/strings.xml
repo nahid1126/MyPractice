@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RealmDatabase</string>
+    <string name="insert">insert</string>
+    <string name="update">update</string>
+    <string name="read">read</string>
+    <string name="delete">delete</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Enter Gender</string>
+    <string name="submit">submit</string>
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+</resources>
